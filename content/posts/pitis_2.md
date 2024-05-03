@@ -1,7 +1,7 @@
 ---
 title: "Pitis 2"
 date: 2024-05-03T15:50:35+02:00
-draft: true
+draft: false
 ---
 
 # L'inizio
