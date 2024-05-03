@@ -1,0 +1,4 @@
+baseURL: https://pieghevole.github.io/
+title: Pieghevole
+paginate: 5
+theme: paper
