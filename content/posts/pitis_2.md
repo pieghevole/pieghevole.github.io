@@ -1,5 +1,5 @@
 ---
-title: "Pitis 2"
+title: "PIT in Swiss"
 date: 2024-05-03T15:50:35+02:00
 draft: false
 ---
