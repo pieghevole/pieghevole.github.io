@@ -1,9 +1,9 @@
 ---
-title: "Argilla"
+title: "Argil 286605la (ψρετα αλλα ψθμποστα)"
 date: 2024-05-07T18:39:59+02:00
 draft: false
 ---
-
+	
 # Informazioni generali
 ![cartina](/images/creta_cartina.jpg)
 ## Ulteriori
@@ -22,7 +22,17 @@ Per i meno acculturati, andiamo qua.
 - Palazzo di Cnosso, **Κνωσός, Knōsós**, ci si deve fare un pò di cultura
 - San Niccolò, **Αγιος Νικόλαος**
 
-# Ra capisce
-- La macchina 🚙, **μαψψηινα**
-- La casa, **ψασα**
-- Robba re cibo tipico 🍦, **ροββα ρε πατανιεεδι αλλα ψθμποστα**
+# I conti in tasca
+| Source                               | Prezzo  | Unità di misura           |
+|--------------------------------------|---------|---------------------------|
+| Volo                                 | 230     | pallucce                  |
+| Auto                                 | 553,36  | palluce a motore          |
+| Casa a nord (che poi è a ovest)      | 385,02  | pallucce coperte          |
+| Casa al centro  (effettivamete è lá) | ?       | piastrelle                |
+| Casa a sud  (che poi è a est)        | ?       | di nuovo  pallucce        |
+| Σ                                    | 1168,38 | sempre pallucce (per ora) |
+| Σ α τεστα                            | 233,68 | sempre pallucce (per ora) |
+	
+
+# Robba re link utili
+- []()
