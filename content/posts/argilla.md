@@ -1,5 +1,5 @@
 ---
-title: "Argil 286605la (ψρετα αλλα ψθμποστα)"
+title: "Argilla (ψρετα αλλα ψθμποστα)"
 date: 2024-05-07T18:39:59+02:00
 draft: false
 ---
@@ -25,14 +25,14 @@ Per i meno acculturati, andiamo qua.
 # I conti in tasca
 | Source                               | Prezzo  | Unità di misura           |
 |--------------------------------------|---------|---------------------------|
-| Volo                                 | 230     | pallucce                  |
+| Volo                                 | 230     | pallucce a testa          |
 | Auto                                 | 553,36  | palluce a motore          |
 | Casa a nord (che poi è a ovest)      | 385,02  | pallucce coperte          |
 | Casa al centro  (effettivamete è lá) | ?       | piastrelle                |
 | Casa a sud  (che poi è a est)        | ?       | di nuovo  pallucce        |
-| Σ                                    | 1168,38 | sempre pallucce (per ora) |
-| Σ α τεστα                            | 233,68 | sempre pallucce (per ora) |
+| Σ                                    | 2088,38 | sempre pallucce (per ora) |
+| Σ α τεστα                            | 417.68  | pallucce su 5             |
 	
 
 # Robba re link utili
-- []()
+- [😎](https://gnu.org/software/emacs)
