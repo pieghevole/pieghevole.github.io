@@ -1,7 +1,7 @@
 ---
 title: "Torneo del Potere del 14/05/2024"
 date: 2024-05-14T20:37:03+02:00
-draft: true
+draft: false
 ---
 
 ![ti piega](/images/dragon-ball-z.webp)
