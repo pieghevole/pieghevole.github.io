@@ -24,15 +24,16 @@ Per i meno acculturati, andiamo qua.
 - San Niccolò, **Αγιος Νικόλαος**
 
 # I conti in tasca
-| Source                              | Prezzo                     | Unità di misura           |
-|-------------------------------------|----------------------------|---------------------------|
-| Volo                                | 230 + 42 (piggata volante) | pallucce a testa          |
-| Auto                                | 553,36                     | palluce a motore          |
-| Casa a nord (che poi è a ovest)     | 385,02                     | pallucce coperte          |
-| Casa al centro (effettivamete è lá) | 190                        | piastrelle                |
-| Casa a sud (che poi è a est)        | 239                        | di nuovo  pallucce        |
-| Σ                                   | 2732,38                    | sempre pallucce (per ora) |
-| Σ α τεστα                           | 545.48                     | pallucce su 5             |
+| Source                                                        | Prezzo                     | Unità di misura           |
+|---------------------------------------------------------------|----------------------------|---------------------------|
+| Volo                                                          | 230 + 42 (piggata volante) | pallucce a testa          |
+| Auto                                                          | 553,36                     | palluce a motore          |
+| Casa a nord (che poi è a ovest)                               | 385,02                     | pallucce coperte          |
+| Casa al centro (effettivamete è lá)                           | 187.56                     | piastrelle                |
+| Casa a sud (che poi è a est)                                  | 229.74                     | di nuovo  pallucce        |
+| Parcheggio al settore 1 che poi era pieno e siamo andati al 2 | 87.5 (only for 3 pigs)     | sordi(cash)               |
+| Σ                                                             | 2715,38                    | sempre pallucce (per ora) |
+| Σ α τεστα                                                     | 543.15                     | pallucce su 5             |
 
 # Robba re imprevisti
 - Aereo cancellato
