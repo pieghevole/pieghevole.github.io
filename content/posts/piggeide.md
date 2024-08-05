@@ -20,9 +20,9 @@ draft: false
 ## Voti
  | Voti    | Fede | Cenzo | Flavia | Daniele | Ntonio |
  |---------|------|-------|--------|---------|--------|
- | Cibo    | 7    |       |        |         |        |
- | Auto    | 4    |       |        |         |        |
- | Piggate | 8    |       |        |         |        |
+ | Cibo    | 7    |       |        |         | 8󱦒     |
+ | Auto    | 4    |       |        |         | 6      |
+ | Piggate | 8    |       |        |         | 4        |
 
 # Robba re Balos 04/08/2024
 - Viaggio a Balos: (di seguito il flusso di coscienza rei PITIC)
@@ -37,6 +37,7 @@ draft: false
   9. nonostante questo Flavia sorpassa almeno 2 macchine
   10. nessuno, dei PITIC, è morto
 - Robba re pranzo (panini alla cumposta, sottilette re capra sorprendenti)
+- Ad Ntonio si abbutta n'uocchiu (robba re collirio e via)
 - Er tizio della casa molla un grande **UAAAUUUU** (Peppo vibes)
 - Cena da Giorgia, finita con rotolamento pe le scale
 - Robba re carne
@@ -52,10 +53,10 @@ draft: false
 ## Voti
  | Voti              | Fede | Cenzo | Flavia | Daniele | Ntonio     |
  |-------------------|------|-------|--------|---------|------------|
- | Auto              |      |       |        |         |            |
- | Cibo              |      |       |        |         | 8 (Troppo) |
- | Aria condizionata |      |       |        |         |            |
- | Piggate           |      |       |        |         |            |
+ | Auto              |      |       |        |         | 4           |
+ | Cibo              |      |       |        |         | 8+ (Troppo) |
+ | Aria condizionata |      |       |        |         | 3            |
+ | Piggate           |      |       |        |         |   7         |
 
 # Robba re Candia (da non confondere con la candida)
 - Colazione con mezza anguria e molto latte
@@ -79,9 +80,9 @@ draft: false
 ## Voti
  | Voti          | Fede | Cenzo | Flavia | Daniele | Ntonio               |
  |---------------|------|-------|--------|---------|----------------------|
- | Auto          |      |       |        |         |                      |
- | Cibo          |      |       |        |         |                      |
+ | Auto          |      |       |        |         | 6                    |
+ | Cibo          |      |       |        |         | 7                    |
  | Kourtaliotiko |      |       |        |         | 10 (piegato)         |
  | Freddo        |      |       |        |         | 10 (molto piacevole) |
- | Piggate       |      |       |        |         |                      |
+ | Piggate       |      |       |        |         | 5                    |
 
