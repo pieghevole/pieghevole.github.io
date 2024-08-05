@@ -17,8 +17,11 @@ draft: false
 - Edwing perde l'aereo
 - Atterraggio riprorevole
 - Il tizio di Nostimo ci fa notare che a Napoli c'è la mafia
+- Gyros alla cumposta 5 euro e ti kiekavi
 - Robba re viaggio in auto (Flavia mostra le sue abilità da camionista), tristemente Ntonio non può guidare
 - Cena alla cumposta (inaspettata)
+- Byral faci vummica
+- Cameriera top, non per il suo servizio
 - Cenzo perdo con Ntonio (piggata) su una questione di orientamento, non l'altra sponda ma il nord
 - Attenzione: le donne non possono buttare i quadrati in bagno 
 ![beware of the squares](/images/divieto_quadrati.jpeg)
