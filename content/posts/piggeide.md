@@ -9,6 +9,8 @@ draft: false
 - Er pig scassa l'ombrello verde al primo colpo (-14 eypo), sardegna vibes
 - Er pig scassa gli occhialini dopo un'ora, non li aveva manco usati (-8 eypo)
 - Robba re pranzo (panini alla cumposta) + un bean&jerry (rolce re lecce) tra Ntonio e Cenzo (robba re intimità)
+- Ntonio viene sotterrato
+- Daniele e Flavia se fanno due belle passeggiate per soffrire
 - Appicichi per l'aria calda
 - Assaggi re miele pe strada, a quanto pare era buono
 - Ntonio non guida manco al ritorno, nonostante sia quasi la scelta migliore
@@ -18,11 +20,13 @@ draft: false
 - A quanto pare i quadrati si buttano in spiaggia nei bidoni gialli (TODO: allegare palle (foto))
 - Cena a base re pesce (nun costa un cazzo (qualità/quantità/prezzo))
 ## Voti
- | Voti    | Fede | Cenzo | Flavia | Daniele | Ntonio |
- |---------|------|-------|--------|---------|--------|
- | Cibo    | 7    |       |        |         | 8󱦒     |
- | Auto    | 4    |       |        |         | 6      |
- | Piggate | 8    |       |        |         | 4        |
+ | Voti    | Fede | Cenzo | Flavia                | Daniele | Ntonio |
+ |---------|------|-------|-----------------------|---------|--------|
+ | Cibo    | 7    |  7     | troppa cipolla 🧅     | 10      | 8󱦒     |
+ | Auto    | 4    |  2     | l'auto è nu purpo     | sì      | 6      |
+ | Vento   |      |  6     | scass o cazz          | 6       | 4      |
+ | Sole    |      |  8     | m'agg appiciat i rin' | 5       |        |
+ | Piggate | 8    |  palle     | ntonio sotterrato top | -1      | 4      |
 
 # Robba re Balos 04/08/2024
 - Viaggio a Balos: (di seguito il flusso di coscienza rei PITIC)
@@ -37,6 +41,7 @@ draft: false
   9. nonostante questo Flavia sorpassa almeno 2 macchine
   10. nessuno, dei PITIC, è morto
 - Robba re pranzo (panini alla cumposta, sottilette re capra sorprendenti)
+- Ntonio abbevera un crapa con una bottiglia, subito dopo offre l'acqua ad un'inglese sofferente
 - Ad Ntonio si abbutta n'uocchiu (robba re collirio e via)
 - Er tizio della casa molla un grande **UAAAUUUU** (Peppo vibes)
 - Cena da Giorgia, finita con rotolamento pe le scale
@@ -51,12 +56,11 @@ draft: false
   6. Inoltre, scopre che la porta era aperta
   7. L'evento viene ricordato come piggata sonnolenta
 ## Voti
- | Voti              | Fede | Cenzo | Flavia | Daniele | Ntonio     |
- |-------------------|------|-------|--------|---------|------------|
- | Auto              |      |       |        |         | 4           |
- | Cibo              |      |       |        |         | 8+ (Troppo) |
- | Aria condizionata |      |       |        |         | 3            |
- | Piggate           |      |       |        |         |   7         |
+ | Voti    | Fede | Cenzo | Flavia        | Daniele | Ntonio                      |
+ |---------|------|-------|---------------|---------|-----------------------------|
+ | Cibo    |      | 7.5   | 9 (rotolanti) | 9       | 8+ (Troppo)                 |
+ | Capre   |      | 9     |               |         | 9 (poverine erano assetate) |
+ | Piggate |      | LGBT  |               |         | 7                           |
 
 # Robba re Candia (da non confondere con la candida)
 - Colazione con mezza anguria e molto latte
@@ -72,17 +76,19 @@ draft: false
   8. Daniele e Flavia sconfiggono il loro nemico, rispettivamente **IL FREDDO** e **IL FREDDO**/**SCHIZZI D'ACQUA** (chiedere conferma)
   9. Si riparte (purtroppo)
 - Ancora robba re viaggio in auto
-- Er Pig per tirare su il morale piscia lungo la strada 
+- Flavia ha un attacco re pane (mollica)
+- Er Pig per tirare su il morale a Flavia piscia lungo la strada 
 - Pranzo alla cumposta, insalata abbondante
 - La bettola si rivela na reggia (non proprio, però bello)
 - Ntonio scopre di avere i piedi spunzati, attenzione di seguito immagini per stomaci forti
 ![piedi spunzati](/images/piedi_spunzati.jpeg)
 ## Voti
- | Voti          | Fede | Cenzo | Flavia | Daniele | Ntonio               |
- |---------------|------|-------|--------|---------|----------------------|
- | Auto          |      |       |        |         | 6                    |
- | Cibo          |      |       |        |         | 7                    |
- | Kourtaliotiko |      |       |        |         | 10 (piegato)         |
- | Freddo        |      |       |        |         | 10 (molto piacevole) |
- | Piggate       |      |       |        |         | 5                    |
+ | Voti          | Fede | Cenzo                               | Flavia | Daniele                 | Ntonio               |
+ |---------------|------|-------------------------------------|--------|-------------------------|----------------------|
+ | Auto          |      | 10                                  |        | 5                       | 6                    |
+ | Cibo          |      | 7--+                                |        | 8  2 (gelato re merda) | 7                    |
+ | Kourtaliotiko |      | 9++                                 |        | 9                       | 10 (piegato)         |
+ | Freddo        |      | Bene (palle ghiacciate)             |        | 13󰔄                     | 10 (molto piacevole) |
+ | Piggate       |      | $\sum_{i=0}^{n} {\frac 1 {2n + 1}}$ |        | 3                       | 5                    |
 
+# Robba re Knosso
