@@ -32,3 +32,5 @@ draft: false
  | Scoppole (in rispetto dei caduti) | 0    | 0     | 0      | 0       | 0      |
  | Piggate                           | -    | -     | -      | -       | -      |
  | Mafia                             | 10   | 10    | 10     | 10      | 10     |
+# Nota
+A quanto pare l'odissea è il ritorno dal viaggio, piggata poco acculturata.

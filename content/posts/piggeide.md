@@ -82,6 +82,18 @@ draft: false
 - La bettola si rivela na reggia (non proprio, però bello)
 - Ntonio scopre di avere i piedi spunzati, attenzione di seguito immagini per stomaci forti
 ![piedi spunzati](/images/piedi_spunzati.jpeg)
+- Chillata fino alle 21:00 a mare (acqua poco chiatrata)
+- Cenzo coglie un vaso di piante con la macchina 
+- Er Bar sulla spiaggia è tenuto da latitanti (certezza al 90%)
+- Robba re magnamento inda na taverna
+  - La scelta casuale ci porta in una delle migliori (app di raccomandazione sucate)
+  - Conoscenza con coppia re Milano
+	- La signora parla molto
+	- Il marito è paziente e leggermente brillo
+	- Non sembrano razzisti nei confronti di noi terroni
+- Er Pig vince 50 
+- Un segno del destino si manifesta ai PITIC
+![miss piggy](/images/segno_del_destino.jpeg)
 ## Voti
  | Voti          | Fede | Cenzo                               | Flavia | Daniele                 | Ntonio               |
  |---------------|------|-------------------------------------|--------|-------------------------|----------------------|
@@ -92,3 +104,45 @@ draft: false
  | Piggate       |      | $\sum_{i=0}^{n} {\frac 1 {2n + 1}}$ |        | 3                       | 5                    |
 
 # Robba re Knosso
+- Munnezza
+- Palazzo fauso
+- Era meglio visitare la frabrica della Knor 
+- Il palazzo re Knosso in aforismi da parte dei PITIC:
+  - Cenzo: 100 euro li spendevo in saganaki
+  - Flavia: facciamo una speedrun 
+  - Cenzo: È tutto finto
+  - Daniele: Palazzo fauzo
+  - Cenzo: Ua questo è cemento armato (ma non dovrebbe)
+  - Ntonio: Mi prende la **E** sul cellulare
+  - Fede: Bella MMMerda
+  - Flavia: Mamm mi'j ste cicale me stann' accirenn a salute
+  - Flavia: O sang' ra colonna
+- Speedrun re Knosso, classifica:
+  1. Fede
+  2. Flavia
+  3. Daniele
+  4. Cenzo
+  5. Ntonio
+- Pranzo re pesce sul mare (buono ma costoso)
+- Chilling a mare
+- Viaggio verso l'ultima dimora:
+  - Ntonio beve leggermente troppa acqua
+  - Flavia non riesce a fare la foto al panorama bello
+  - Cenzo scassa le pallucce lui e Michael Jackson (sbanda per ballare)
+  - Ntonio è costretto (dopo varie richieste di accostamento palle) a pisciare in superstrada 
+  - Ntonio si beve 1.5 litri di acqua
+  - Flavia perde a Morra Sanzese (si tiene [telegraph road](https://open.spotify.com/track/0Bg100ruK1ZD7H96rNo6fR?si=79026d017ab3420d) e cittu)
+- Er tizio della casa nun tene un'indirizzo
+- Ntonio fa da interprete:
+  - Cerca di essere comprensivo
+  - Cenzo lo fa inalberare 
+  - Chiede scusa a *er tizio* per non sembrare troppo maleducato
+
+# Perle re saggezza / Tormentoni
+- Er Pig: Un uomo è più felice con una pietra che con una donna.
+  - Flavia: E se la donna è di pietra.
+  - Er Pig: ... non posso rispondere, sarei troppo volgare.
+- Chiatrato
+- Ed anche oggi abbiamo pariato (pre-esistente, ma ci azzecca troppo)
+- La dea della volgarità/Medusa
+
