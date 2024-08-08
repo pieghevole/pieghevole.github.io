@@ -22,11 +22,11 @@ draft: false
 ## Voti
  | Voti    | Fede | Cenzo | Flavia                | Daniele | Ntonio |
  |---------|------|-------|-----------------------|---------|--------|
- | Cibo    | 7    |  7     | troppa cipolla 🧅     | 10      | 8󱦒     |
- | Auto    | 4    |  2     | l'auto è nu purpo     | sì      | 6      |
- | Vento   |      |  6     | scass o cazz          | 6       | 4      |
- | Sole    |      |  8     | m'agg appiciat i rin' | 5       |        |
- | Piggate | 8    |  palle     | ntonio sotterrato top | -1      | 4      |
+ | Cibo    | 7    | 7     | troppa cipolla 🧅     | 10      | 8󱦒     |
+ | Auto    | 4    | 2     | l'auto è nu purpo     | sì      | 6      |
+ | Vento   |      | 6     | scass o cazz          | 6       | 4      |
+ | Sole    |      | 8     | m'agg appiciat i rin' | 5       |        |
+ | Piggate | 8    | palle | ntonio sotterrato top | -1      | 4      |
 
 # Robba re Balos 04/08/2024
 - Viaggio a Balos: (di seguito il flusso di coscienza rei PITIC)
@@ -105,7 +105,6 @@ draft: false
 
 # Robba re Knosso
 - Munnezza
-- Palazzo fauso
 - Era meglio visitare la frabrica della Knor 
 - Il palazzo re Knosso in aforismi da parte dei PITIC:
   - Cenzo: 100 euro li spendevo in saganaki
@@ -131,18 +130,62 @@ draft: false
   - Cenzo scassa le pallucce lui e Michael Jackson (sbanda per ballare)
   - Ntonio è costretto (dopo varie richieste di accostamento palle) a pisciare in superstrada 
   - Ntonio si beve 1.5 litri di acqua
-  - Flavia perde a Morra Sanzese (si tiene [telegraph road](https://open.spotify.com/track/0Bg100ruK1ZD7H96rNo6fR?si=79026d017ab3420d) e cittu)
+  - Flavia perde a Morra Sanzese (si mette [telegraph road](https://open.spotify.com/track/0Bg100ruK1ZD7H96rNo6fR?si=79026d017ab3420d) e cittu)
 - Er tizio della casa nun tene un'indirizzo
+- Ntonio aiuta Flavia a dedurre la traduzione della parola **Hurricane**, nasce il termine **Hurricano**
+- Robba re sperdimiento sulla via per Pallekastro (Palekastro)
 - Ntonio fa da interprete:
   - Cerca di essere comprensivo
   - Cenzo lo fa inalberare 
   - Chiede scusa a *er tizio* per non sembrare troppo maleducato
+- Ntonio finalmente guida, ha trovato la tecnica per convincere il demone:
+  1. Aspettare che il demone sia stanco
+  2. Aspettare che il demone si affamato
+  3. Sperare che il demonwe non abbia voglia di uscire
+  4. Offrirsi di andare a prendere le pizze
+  5. Sacrificare una capra al demone
+- Daniele indemoniato arriva a fare una killstreak da 20 (zanzare, non persone)
+- Ntonio va a prendere le pizze, guida per circa 500m (andata e ritorno)
+- Pizza ra Giorgio, passabile anzi piacevole (Umbria suca)
+
+## Voti
+ | Voti      | Fede | Cenzo | Flavia | Daniele | Ntonio |
+ |-----------|------|-------|--------|---------|--------|
+ | Cibo      |      |       |        |         |        |
+
+# Robba re Vai (da cui forse deriva Hawaii, i pitic sono scettici su sta cosa)
+- Ntonio si sceta grigliato, pieno di quadrati!!!
+- Ntonio rischia di ribaltare il letto
+- Ntonio viene tormentato dalla luce del forno 
+- Robba re curve e curvecedde
+- Guard rail a tratti
+- Robba re spiaggia bella
+- Robba re vento
+- Pranzo a base re sfogliati
+- Ntonio finisce **antifragile** (molto bello, ma ha scassato le pallucce agli altri PITIC)
+- Ntonio accumenza **U cigno nero**
+- Gli ombrelloni ormai stremati cedono
+- Anche se ormai i PITIC si erano affezzionati agli ombrelloni, li jettano con un tasso di rimorso del 3%
+- Robba re monastero, patanieddi, formaggio e palle
+- Cenzo e Ntonio, grazie alle loro doti da manovratori di seghe, notano che la doccia perde dal soffitto.  
+  Anche se è un problema grave, non li riguarda e fanno spallucce.
+
+## Voti
+ | Voti      | Fede | Cenzo | Flavia | Daniele | Ntonio |
+ |-----------|------|-------|--------|---------|--------|
+ | Cibo      |      |       |        |         |        |
+ | Curve     |      |       |        |         |        |
+ | Vento     |      |       |        |         |        |
+ | Monastero |      |       |        |         |        |
+ | Piggate   |      |       |        |         |        |
+
 
 # Perle re saggezza / Tormentoni
 - Er Pig: Un uomo è più felice con una pietra che con una donna.
   - Flavia: E se la donna è di pietra.
   - Er Pig: ... non posso rispondere, sarei troppo volgare.
 - Chiatrato
+- L'Hurricano 
 - Ed anche oggi abbiamo pariato (pre-esistente, ma ci azzecca troppo)
 - La dea della volgarità/Medusa
 
