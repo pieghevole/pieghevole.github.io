@@ -163,6 +163,12 @@ draft: false
 - Robba re vento
 - Pranzo a base re sfogliati
 - Ntonio finisce **antifragile** (molto bello, ma ha scassato le pallucce agli altri PITIC)
+- Cenzo e Ntonio decidono di sposarsi in comune, puramente per questioni burocratiche.  
+  Le opere di falegnameria rimarranno inalterate.  
+  Di seguito la foto della proposta
+  ![happy new year](/images/cenz_ntonio.jpeg)
+- Flavia vince il premio **Miss Demone**
+  ![robba re riavoli (non ravioli)](/images/miss_demone.jpeg)
 - Ntonio accumenza **U cigno nero**
 - Gli ombrelloni ormai stremati cedono
 - Anche se ormai i PITIC si erano affezzionati agli ombrelloni, li jettano con un tasso di rimorso del 3%
