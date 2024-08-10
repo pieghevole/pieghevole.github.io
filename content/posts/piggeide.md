@@ -154,7 +154,9 @@ draft: false
  | Cibo      |      |       |        |         |        |
 
 # Robba re Vai (da cui forse deriva Hawaii, i pitic sono scettici su sta cosa)
-- Ntonio si sceta grigliato, pieno di quadrati!!!
+- Ntonio si sceta grigliato (saganato), pieno di quadrati!!!  
+  Griglia utilizzata
+  ![griglia per pig](/images/griglia.jpeg)
 - Ntonio rischia di ribaltare il letto
 - Ntonio viene tormentato dalla luce del forno 
 - Robba re curve e curvecedde
@@ -163,7 +165,7 @@ draft: false
 - Robba re vento
 - Pranzo a base re sfogliati
 - Ntonio finisce **antifragile** (molto bello, ma ha scassato le pallucce agli altri PITIC)
-- Cenzo e Ntonio decidono di sposarsi in comune, puramente per questioni burocratiche.  
+- Cenzo e Ntonio decidono di sposarsi in comune, puramente per questioni burocratiche e vantaggi economici.  
   Le opere di falegnameria rimarranno inalterate.  
   Di seguito la foto della proposta
   ![happy new year](/images/cenz_ntonio.jpeg)
@@ -175,6 +177,7 @@ draft: false
 - Robba re monastero, patanieddi, formaggio e palle
 - Cenzo e Ntonio, grazie alle loro doti da manovratori di seghe, notano che la doccia perde dal soffitto.  
   Anche se è un problema grave, non li riguarda e fanno spallucce.
+- Ntonio e Cenzo, giocando a morra sanzese, bevono 2 bottiglie (piccole) di benzina (i locali lo chiamano raki)
 
 ## Voti
  | Voti      | Fede | Cenzo | Flavia | Daniele | Ntonio |
@@ -194,4 +197,6 @@ draft: false
 - L'Hurricano 
 - Ed anche oggi abbiamo pariato (pre-esistente, ma ci azzecca troppo)
 - La dea della volgarità/Medusa
+- Hai saganato, equivale a *Hai piggato* se fossimo nati in Grecia
+- Nun è fritto è saganato
 
