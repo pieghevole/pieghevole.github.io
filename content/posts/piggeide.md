@@ -167,17 +167,18 @@ draft: false
 - Ntonio finisce **antifragile** (molto bello, ma ha scassato le pallucce agli altri PITIC)
 - Cenzo e Ntonio decidono di sposarsi in comune, puramente per questioni burocratiche e vantaggi economici.  
   Le opere di falegnameria rimarranno inalterate.  
-  Di seguito la foto della proposta
+  Di seguito la foto della proposta di matrimonio
   ![happy new year](/images/cenz_ntonio.jpeg)
 - Flavia vince il premio **Miss Demone**
   ![robba re riavoli (non ravioli)](/images/miss_demone.jpeg)
 - Ntonio accumenza **U cigno nero**
 - Gli ombrelloni ormai stremati cedono
-- Anche se ormai i PITIC si erano affezzionati agli ombrelloni, li jettano con un tasso di rimorso del 3%
+- Anche se i PITIC si erano affezzionati agli ombrelloni, li jettano con un tasso di rimorso del 3%
 - Robba re monastero, patanieddi, formaggio e palle
 - Cenzo e Ntonio, grazie alle loro doti da manovratori di seghe, notano che la doccia perde dal soffitto.  
-  Anche se è un problema grave, non li riguarda e fanno spallucce.
+  Anche se è un problema grave, non li riguarda e fanno (s)pallucce.
 - Ntonio e Cenzo, giocando a morra sanzese, bevono 2 bottiglie (piccole) di benzina (i locali lo chiamano raki)
+- Ntonio prova a pagare il conto nel ristorante sbagliato, Flavia (che non ha assaggiato la benzina) va in quello giusto
 
 ## Voti
  | Voti      | Fede | Cenzo | Flavia | Daniele | Ntonio |
@@ -197,6 +198,6 @@ draft: false
 - L'Hurricano 
 - Ed anche oggi abbiamo pariato (pre-esistente, ma ci azzecca troppo)
 - La dea della volgarità/Medusa
-- Hai saganato, equivale a *Hai piggato* se fossimo nati in Grecia
+- Hai saganato, equivale a *"Hai piggato"* se fossimo nati in Grecia
 - Nun è fritto è saganato
 
