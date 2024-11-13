@@ -51,25 +51,37 @@ Giudizio in corso 🤖.
 ### Recensione guest
 [Cittu](https://www.youtube.com/watch?v=UAG_FBZJVJ8).
 ### Recensione host
-
+L'ho trovata pulita... dipende a terra no.
 ## Stanza Flavia
 | Categoria       | Voto | Motivazione                                                                                                         |
 |-----------------|------|---------------------------------------------------------------------------------------------------------------------|
-| Ospitalità      | 7    | Cestino contaminato                                                                                                 |
+| Ospitalità      | 8    | Cestino contaminato, manna accudito quannu stia male                                                                |
 | Cucina          | 8.5  | Cumica patane                                                                                                       |
 | Pariamientu     | 1    | [demoni.x](https://it.wikipedia.org/wiki/Gerarchia_dei_demoni)                                                      |
 | Libertà         | 0    | [dittatura.x](https://it.wikipedia.org/wiki/Benito_Mussolini)                                                       |
 | ER PIG          | 9    | In previsione della futura dormita del pig nel letto dove avrei potuto potenzialmente sborracciare (non l'ho fatto) |
 | Sborracciamento | ∅    | uau                                                                                                                 |
-| Pulizia         | 5    | coppetta vaginale (sticchiu a lu sugo)                                                                              |
+| Pulizia         | 4    | coppetta vaginale (sticchiu a lu sugo)                                                                              |
 | Multe           | 0    | se mi fottono la machina stanotte Ntonio abbusca                                                                    |
 | Aspettative     | 0    | suca                                                                                                                |
 
 ### Recensione guest
 Casa buona, OGNI TANTO MI PIGLIAVA LA DEPRESSIONE PECCHÈ STIEMMU SEMB LO', condizionamento sull'uso della parola, ma atmosfera familiare.  
 Camino a la CUMPOSTA!!!   
+Aggiu accattatu lu furcone (al posto della salsa di soia).
 ### Recensione host
+Io dico solo una cosa l'ospita ha guardato Shrek 1, Shrek 2, Shrek 3, Hotel Transilvania 1 e 2 poi l'ospite ha fatto un numero importante di doccie (e non alza mai il tappeto). 
+Usa troppo il phono.
+Ha fatto il pescatore di peni.
+Ho pianto sulla spalla dell'ospite (era l'unica, spalla debole ma ok).
+L'ospite si necessita di nutrirsi di carcasse morte spesso.
+L'ospite fa molte lavatrice e non le sa avviare.
+L'ospite ha intasato il lavandino del bagno. (Peppo: maggiu scordato mr. Muscolo)
+L'ospite si è sforzato di cucinare 2 sere:
++ salsicce e patane
++ salmone cruro (toccato ra Benedetta)
 
+Nel complesso piacevole.
 # Casa Pigs (Mercatini)
 ## Stanza Ntonio
 
@@ -78,3 +90,4 @@ Camino a la CUMPOSTA!!!
 # Casa Pigs (Leopardi)
 ## Stanza Ntonio
 ## Stanza Cenzo
+# Casa Tronco
